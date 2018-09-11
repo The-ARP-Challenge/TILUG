@@ -1,5 +1,6 @@
 # TILUG
 
+<<<<<<< HEAD
 ## This is a markdown file
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -10,3 +11,6 @@ cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## New header
+=======
+##testing
+>>>>>>> 9c71b5f275d9efbcc322d99b4fbc23435987adf3
