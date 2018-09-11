@@ -4,6 +4,8 @@
     1. Push it Phil!  
 =======
 
+Adding this line
+
 <<<<<<< HEAD
 ## This is a markdown file
 
