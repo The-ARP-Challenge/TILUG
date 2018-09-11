@@ -1,3 +1,6 @@
+#.bak files
+.bak
+
 # History files
 .Rhistory
 .Rapp.history
