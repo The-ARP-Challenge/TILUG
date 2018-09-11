@@ -3,7 +3,13 @@
 1. Demo by Phil 
     1. Push it Phil!  
 =======
+<<<<<<< HEAD
 ![P-Mann](https://www.theinformationlab.co.uk/wp-content/uploads/2018/09/req-71e7b2de-e859-4471-e053-4ee1070a88fc.jpg)
+=======
+
+Adding this line
+
+>>>>>>> 5b590dbee67a8673ef31a25f4d13feefe374fc2b
 <<<<<<< HEAD
 ## This is a markdown file
 
